@@ -1,0 +1,21 @@
+* {
+    /* background-color: aqua; */
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+table {
+width: 100%;
+}
+
+h1 {
+font-family: gibson;
+font-style: semi-bold;
+font-size: 51px;
+}

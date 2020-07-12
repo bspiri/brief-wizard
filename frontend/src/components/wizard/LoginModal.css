@@ -1,0 +1,39 @@
+#loginSubmit{
+    background: #FEE647;
+    width:100%;
+    font-weight: 900;
+    margin-top: 5px;
+    border-radius: 4px;
+    }
+    .RML-login-modal-box .RML-login-modal-form button {
+    background: #FEE647;
+    width:100%;
+    font-weight: 900;
+    }
+    .RML-social-methods-separator {
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    }
+    .tabname {
+    display: flex;
+    font-weight: bolder;
+    font-size: 23px;
+    line-height: 100%;  
+    color: #232733; 
+    margin-bottom: 15%;
+    height: auto;
+    }
+    .RML-form-group label {
+    color: #757C9C;
+    opacity: 0.8;
+    }
+    .RML-form-control {
+    margin-top: 5px;
+    margin-bottom: 10px;  
+    background: #FFFFFF;
+    border: 1px solid #757C9C;
+    box-sizing: border-box;
+    box-shadow: inset 0px 1px 3px #F0F0F0;
+    border-radius: 4px;
+    }
